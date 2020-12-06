@@ -1,14 +1,14 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-clean-dark"
+  spec.name          = "blog"
   spec.version       = "0.1.3"
-  spec.authors       = ["Pavel Makhov"]
-  spec.email         = ["streetturtle@gmail.com"]
+  spec.authors       = ["Jibin Yan"]
+  spec.email         = ["qivmvip@gmail.com"]
 
   spec.summary       = %q{Customizable dark theme for Jekyll.}
-  spec.description   = "Customizable dark theme for Jekyll. Supports tags, comments, analytics, share buttons."
-  spec.homepage      = "https://github.com/streetturtle/jekyll-clean-dark"
+  spec.description   = "personal blog"
+  spec.homepage      = "https://github.com/qivmvip"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
