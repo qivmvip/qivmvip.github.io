@@ -7,3 +7,12 @@
 + date   : 2020-12-06
 + desc   : README file
 -->
+
+# qivmvip
+
+## 材料
+
++ gitlab CI/CD Jekyll: <https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html>
++ Bootstrap:
+  + github: <https://github.com/twbs/bootstrap>
+  + getbootstrap: <https://getbootstrap.com/>
