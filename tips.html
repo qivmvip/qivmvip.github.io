@@ -1,0 +1,20 @@
+---
+layout: page
+title: Tips
+---
+<div class="page-content wc-container">
+    <div class="post">
+        <h1>Tips</h1>
+        <ul>
+            {% for tip in site.tips %}
+            <li>
+                <div class="post-time">
+                    <i class="fa fa-calendar"></i>
+                    <time>{{ tip.date | date: "%d-%m-%Y" }}</time>
+                    <a href="{{ tip.url | prepend: site.url }}">{{ tip.title }}</a>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

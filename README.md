@@ -1,18 +1,4 @@
-<!--
-+------------------------------------------------------------------------+
-| Copyright (c) YanJibin (qivmvip AT gmail DOT net) All rights reserved. |
-| Licensed under the MIT license,  see LICENSE file in the project root. |
-+------------------------------------------------------------------------+
-+ author : YanJibin (qivmvip AT gmail DOT net)
-+ date   : 2020-12-06
-+ desc   : README file
--->
+qivmvip`s blog
+============
 
-# qivmvip
-
-## 材料
-
-+ gitlab CI/CD Jekyll: <https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html>
-+ Bootstrap:
-  + github: <https://github.com/twbs/bootstrap>
-  + getbootstrap: <https://getbootstrap.com/>
+hello

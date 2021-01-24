@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About
-
 ---
 
-# 关于我
-;)
+# About
+
+写写代码，记录日志
+
+---
+以上
