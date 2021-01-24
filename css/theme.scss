@@ -30,7 +30,6 @@ $linkColor: #463f5c;
 }
 
 %my-box {
-  @extend %my-border;
   background-color: white;
   box-shadow: 0px 0px 0.618px 0px rgba(0, 0, 0, 0.618);
   -webkit-box-shadow: 0px 0px 0.618px 0px rgba(0, 0, 0, 0.618);
@@ -46,7 +45,7 @@ body {
   color: #363636;
   // background-color: #f3f2ee;
   // background-color: #fafafa;
-  background-color: #f9f9f9;
+  background-color: #f8f8f8;
   font-family: 'PingFang SC', 'Microsoft Yahei', 'Lantinghei SC', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', 'sans-serif';
   font-weight: 300;
   line-height: 1.8;
@@ -528,9 +527,19 @@ nav {
 }
 
 pre {
-  border-width: 1px;
-  border-color: #bababa;
-  border-radius: 0px;
+  background-color: #fcfcfc !important;
+  box-shadow: 0px 0px 0.618px 0px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0px 0px 0.618px 0px rgba(0, 0, 0, 0.618);
+  -moz-box-shadow: 0px 0px 0.618px 0px rgba(0, 0, 0, 0.318);
+  border: none;
+  border-radius: 0;
+
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .sidebar-wrapper {
